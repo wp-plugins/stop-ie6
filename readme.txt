@@ -5,15 +5,15 @@ Requires at least: 2.0
 Tested up to: 3.0
 Stable tag: 1.03
 
-This plugin identifies if a visitor is using Internet Explorer 6 (or older) and suggests to upgrade to a recent version or to install another Internet browser.
+This plugin identifies if a visitor is using Internet Explorer 6 (or older) and suggests to upgrade to a recent version or to install another web browser.
 
 
 == Description ==
 
-This plugin identifies if a visitor is using Internet Explorer 6 (or older) and suggests to upgrade to a recent version or to install another Internet browser. 
+This plugin identifies if a visitor is using Internet Explorer 6 (or older) and suggests to upgrade to a recent version or to install another web browser. 
 
 **Info:**
-If you have WP Super Cache or some other cache plugin installed it's very possible that StopIE6 will not work properly. ASAP i get some free time i'll try to fix it.
+If you have WP Super Cache or some other cache plugin installed it's very possible that Stop IE6 will not work properly. I'll try to fix that ASAP.
 
 **Please take a few seconds of your time and rate this plugin. Thank you!**
 
